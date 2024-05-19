@@ -15,7 +15,6 @@
 
 #### 🔭 Education
 •⁠  ⁠Emory University, MS Business Analytics | 2023 - 2024
-
 •⁠  ⁠Konkuk University, BA Media and Communication | 2017 - 2023
   
 #### 📫 Let's connect!
