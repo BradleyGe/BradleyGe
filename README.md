@@ -1,6 +1,6 @@
 ### Hello, I'm Bradley Ge 👋
 
-#### ⚡ Business and Data Analyst
+#### ⚡ Data Analyst
 
 #### 🔨 Stacks	
 
