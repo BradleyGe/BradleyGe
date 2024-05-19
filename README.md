@@ -16,7 +16,7 @@
 
 #### 🔭 Education
 •⁠  ⁠Emory University, MS Business Analytics | 2023 - 2024  
-•⁠  ⁠University of California, Irvine, B.A. in Econometrics and Quantitative Economics; B.A. in Sociology| 2019 - 2023
+•⁠  ⁠University of California, Irvine, B.A. in Econometrics and Quantitative Economics; B.A. in Sociology | 2019 - 2023
 
   
 #### 📫 Let's connect!
