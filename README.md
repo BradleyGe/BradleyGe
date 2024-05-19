@@ -1,12 +1,12 @@
 ### Hello, I'm Bradley Ge 👋
 
-#### ⚡ Data Analyst
+#### ⚡ Data Analyst/Data Scientist
 
-#### 🔨 Stacks	
+#### 🔨 Stacks 
 
 •⁠  ⁠Languages: Python | SQL | R 
 •⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop 
-•⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning
+•⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning 
 
 #### 🌱 Projects & Competitions
 •⁠  ⁠[Retail Big Data Analysis](https://github.com/haydenlee914/retail-data-analysis)
