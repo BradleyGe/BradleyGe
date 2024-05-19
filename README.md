@@ -5,7 +5,7 @@
 #### 🔨 Stacks 
 
 •⁠  ⁠Languages: Python | SQL | R  
-•⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop 
+•⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop  
 •⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning 
 
 #### 🌱 Projects & Competitions
