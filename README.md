@@ -1,10 +1,10 @@
 ### Hello, I'm Bradley Ge 👋
 
-#### ⚡ Data Analyst/Data Scientist
+#### ⚡ Data Analyst/ Data Scientist
 
 #### 🔨 Stacks 
 
-•⁠  ⁠Languages: Python | SQL | R  
+•⁠  ⁠Languages: Python(Pandas, Scikit-learn),| SQL | R(ggolot2, dplyr)  
 •⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop  
 •⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning 
 
