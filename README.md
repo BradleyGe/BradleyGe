@@ -8,7 +8,7 @@
 •⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop  
 •⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning 
 
-#### 🌱 Projects $ Competition
+#### 🌱 Projects & Competition
 •⁠  ⁠[[Python]Credit Card Approval Prediction Project](https://github.com/BradleyGe/Credit-Card-Approval-Prediction-Project)  
 •⁠  ⁠[[R]A/B Testing on ACME’s Career 2030 Training Program Effectiveness](https://github.com/BradleyGe/A-B-Testing-on-the-Impact-Evaluation-of-ACME-s-Career-2030-Training-Program)  
 •⁠  ⁠[[Tableau]Healthcare Expenditure Worldwide Tableau Dashboard](https://public.tableau.com/app/profile/bradley.ge2204/viz/Howmuchdideachcountryspendonhealthcare1970-2019/FinalDashboard)  
