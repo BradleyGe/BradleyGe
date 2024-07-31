@@ -4,7 +4,8 @@
 
 #### 🔨 Stacks 
 
-•⁠  ⁠Languages: Python(Pandas, Scikit-learn)| R(ggolot2, dplyr)| SQL 
+•⁠  ⁠Languages: Python(Pandas, Scikit-learn)| R(ggolot2, dplyr)| SQL   
+
 •⁠  ⁠Tools: Tableau | Git | AWS | NoSQL | Hadoop  
 •⁠  ⁠Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning 
 
